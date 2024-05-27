@@ -6,11 +6,12 @@ The creation of sign language learning and translation apps is crucial to improv
 
 ## Contributing
 Bangkit 2024 Capstone Team CH2-PS500
-| Name                           | University                        | Role               | ID            |
-|--------------------------------|-----------------------------------|--------------------|---------------|
-| Nadhira Aurell Puspitaningrum  | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KX3293  |
-| Aldi Putra Miftaqull Ullum     | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KY1958  |
-| Jessica Vega Nainggolan        | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KX1990  |
-| Ryan Rizky Pratama             | Politeknik Negeri Banjarmasin     | Cloud Computing    | C524D4KY0323  |
-| Reja Revaldy. F.               | Politeknik Negeri Banjarmasin     | Cloud Computing    | C524D4KY1063  |
-| Nisa Amelia                    | Universitas Gadjah Mada           | Mobile Development | A008D4KX3741  |
+| Name                           | University                        | Role               | ID            | Links                                                                                       |
+|--------------------------------|-----------------------------------|--------------------|---------------|---------------------------------------------------------------------------------------------|
+| Nadhira Aurell Puspitaningrum  | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KX3293  | <a href="https://github.com/nadhiraaurell"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/nadhiraaurell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Aldi Putra Miftaqull Ullum     | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KY1958  | <a href="https://github.com/AldiPutra24"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/aldi-putra-miftaqull-ullum-52231b222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Jessica Vega Nainggolan        | Universitas Amikom Yogyakarta     | Machine Learning   | M183D4KX1990  | <a href="https://github.com/jessicaavg"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/jessicavegaa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Ryan Rizky Pratama             | Politeknik Negeri Banjarmasin     | Cloud Computing    | C524D4KY0323  | <a href="https://github.com/ryanriz"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/ryanriz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Reja Revaldy. F.               | Politeknik Negeri Banjarmasin     | Cloud Computing    | C524D4KY1063  | <a href="https://github.com/rejarevaldy"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/rejarevaldyf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Nisa Amelia                    | Universitas Gadjah Mada           | Mobile Development | A008D4KX3741  | <a href="https://github.com/nisamelia"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/nisa-amelia31/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
