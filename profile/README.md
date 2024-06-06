@@ -6,7 +6,7 @@ The creation of sign language learning and translation apps is crucial to improv
 
 ## Contributing
 
-**Bangkit 2024 Capstone Team CH2-PS500**
+**Bangkit 2024 Capstone Team C241-PS500**
 
 | Name                             | University                      | Role              | Links                                                                                          |
 |----------------------------------|---------------------------------|-------------------|------------------------------------------------------------------------------------------------|
