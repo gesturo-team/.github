@@ -21,6 +21,6 @@ The creation of sign language learning and translation apps is crucial to improv
 
 | Learning Paths     | Github Repository                                                                                                        |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Mobile Development | [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gesturo-team/Mobile-Development) |
-| Cloud Computing    | [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gesturo-team/Cloud-Computing)    |
-| Machine Learning   | [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gesturo-team/Machine-Learning)   |
+| Mobile Development | ![Github Repostiroy](https://github.com/gesturo-team/Mobile-Development) |
+| Cloud Computing    | ![Github Repostiroy](https://github.com/gesturo-team/Cloud-Computing)    |
+| Machine Learning   | ![Github Repostiroy](https://github.com/gesturo-team/Machine-Learning)   |
