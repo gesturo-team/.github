@@ -8,8 +8,6 @@ In Indonesia, there is a sizeable deaf population of around 2 million people. De
 
 The creation of sign language learning and translation apps is crucial to improving the quality of life for the deaf community and promoting social inclusion. This app has the potential to bring positive change to the lives of millions of people. By developing this app, we are optimistic that we can help create a more just and inclusive society for everyone, including the deaf.
 
-<br>
-
 ## Contributing
 
 **Bangkit 2024 Capstone Team C241-PS500**
@@ -22,8 +20,6 @@ The creation of sign language learning and translation apps is crucial to improv
 | Ryan Rizky Pratama            | Politeknik Negeri Banjarmasin | Cloud Computing    | [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanriz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanriz/)                                  |
 | Reja Revaldy. F.              | Politeknik Negeri Banjarmasin | Cloud Computing    | [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rejarevaldy) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rejarevaldyf/)                         |
 | Nisa Amelia                   | Universitas Gadjah Mada       | Mobile Development | [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisamelia) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisa-amelia31/)                          |
-
-<br>
 
 ## Repositories
 | Learning Paths     | GitHub Repository                                                        |
